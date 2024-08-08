@@ -4,7 +4,7 @@
 
 ## Acerca de Mí
 
-¡Hola! Soy Marcelo, apasionado por las ciencias naturales y la tecnología. Este espacio es una recopilación de mis proyectos, investigaciones y recursos que he creado o en los que he colaborado. Mi objetivo es contribuir al desarrollo de herramientas y estrategias innovadoras que hagan la ciencia, su aprendizaje y comunicación más accesible.
+¡Hola! Soy Marcelo, apasionado por las ciencias naturales y la tecnología. Este espacio es una recopilación de mis proyectos, investigaciones y recursos que he creado o en los que he colaborado. Mi objetivo es contribuir al desarrollo de herramientas y estrategias innovadoras que hagan la ciencia, su aprendizaje y comunicación más accesibles.
 
 ## Contacto
 
