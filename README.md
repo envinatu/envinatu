@@ -12,7 +12,7 @@ Si tienes preguntas, sugerencias o simplemente quieres charlar sobre educación,
 
 Puedes encontrarme en:
 
--   **Correo electrónico**: [marceloamores61\@gmail.com](contacto.envinatu@gmail.com)
+-   **Correo electrónico**: [contacto.envinatu@gmail.com](contacto.envinatu@gmail.com)
 
 -   **LinkedIn**: [Marcelo Amores](https://www.linkedin.com/in/marceloamores/)
 
