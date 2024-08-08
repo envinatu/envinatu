@@ -1,12 +1,10 @@
-# Bienvenid\@ a Mi Página de GitHub
+# Bienvenid\@ a mi página de GitHub
 
 ![Foto de Portada](marcelo_1.png)
 
 ## Acerca de Mí
 
-¡Hola! Soy \[Marcelo\], apasionado por las ciencias naturales y la tecnología educativa. Este espacio es una recopilación de mis proyectos, investigaciones y recursos que he creado o en los que he colaborado. Mi objetivo es contribuir al desarrollo de herramientas y estrategias educativas innovadoras que hagan el aprendizaje más accesible y efectivo para todos.
-
-## Proyectos Destacados
+¡Hola! Soy Marcelo, apasionado por las ciencias naturales y la tecnología. Este espacio es una recopilación de mis proyectos, investigaciones y recursos que he creado o en los que he colaborado. Mi objetivo es contribuir al desarrollo de herramientas y estrategias innovadoras que hagan la ciencia, su aprendizaje y comunicación más accesible.
 
 ## Contacto
 
@@ -14,9 +12,9 @@ Si tienes preguntas, sugerencias o simplemente quieres charlar sobre educación,
 
 Puedes encontrarme en:
 
--   **Correo electrónico**: [marceloamores61\@gmail.com](marceloamores61@gmail.com)
+-   **Correo electrónico**: [marceloamores61\@gmail.com](contacto.envinatu@gmail.com)
 
--   **LinkedIn**: [Marcelo Amores](https://www.linkedin.com/in/tu-nombre/)
+-   **LinkedIn**: [Marcelo Amores](https://www.linkedin.com/in/marceloamores/)
 
 -   **Twitter**: [\@nvinatu](https://twitter.com/nvinatu)
 
