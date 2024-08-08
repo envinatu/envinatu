@@ -1,6 +1,6 @@
 # Bienvenid\@ a Mi Página de GitHub
 
-![Foto de Portada](https://inaturalist-open-data.s3.amazonaws.com/photos/411957325/large.jpeg)
+![Foto de Portada](marcelo_1.png)
 
 ## Acerca de Mí
 
