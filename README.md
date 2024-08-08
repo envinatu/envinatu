@@ -21,13 +21,9 @@ Puedes encontrarme en:
 ------------------------------------------------------------------------
 Cuando no estoy por aquí, me encuentro observando biodiversidad.
 
-::: inat-widget
-```{=html}
-<script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations/marceloamores.widget?layout=small&limit=18&order=desc&order_by=observed_on"></script>
-```
 |                                                                                                                                                    |                                                                                                   |
 |-------------------------------------------|-----------------------------|
 | [![](https://static.inaturalist.org/attachments/users/icons/1116633/thumb.jpg?1628812209)](https://www.inaturalist.org/observations/marceloamores) | [**View marceloamores's observations »**](https://www.inaturalist.org/observations/marceloamores) |
-:::
+
 
 Gracias por visitar mi página, ¡espero que encuentres algo interesante aquí!
