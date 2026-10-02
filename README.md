@@ -23,8 +23,9 @@ Cuando no estoy por aquí, me encuentro observando biodiversidad.
 
 <a href="https://www.inaturalist.org/observations/marceloamores" target="_blank" style="text-decoration: none;">
   <img src="https://static.inaturalist.org/attachments/users/icons/1116633/thumb.jpg?1628812209" width="40" height="40" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;" alt="marceloamores">
-  <strong>Ver observaciones de marceloamores en iNaturalist »</strong>
+  <strong>Mira mis observaciones en iNaturalist »</strong>
 </a>
 
+------------------------------------------------------------------------
 
 Gracias por visitar mi página, ¡espero que encuentres algo interesante aquí!
