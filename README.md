@@ -23,7 +23,7 @@ Cuando no estoy por aquí, me encuentro observando biodiversidad.
 
 |                                                                                                                                                    |                                                                                                   |
 |-------------------------------------------|-----------------------------|
-| [![](https://static.inaturalist.org/attachments/users/icons/1116633/thumb.jpg?1628812209)](https://www.inaturalist.org/observations/marceloamores) | [**View marceloamores's observations »**](https://www.inaturalist.org/observations/marceloamores) |
+| [![](https://static.inaturalist.org/attachments/users/icons/1116633/thumb.jpg?1628812209)](https://www.inaturalist.org/people/1116633) | [**View marceloamores's observations »**]([https://www.inaturalist.org/observations/marceloamores](https://www.inaturalist.org/people/1116633)) |
 
 
 Gracias por visitar mi página, ¡espero que encuentres algo interesante aquí!
