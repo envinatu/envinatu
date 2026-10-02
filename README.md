@@ -21,9 +21,9 @@ Puedes encontrarme en:
 ------------------------------------------------------------------------
 Cuando no estoy por aquí, me encuentro observando biodiversidad.
 
-<a href="[https://www.inaturalist.org/observations/marceloamores](https://www.inaturalist.org/people/1116633)" target="_blank" style="text-decoration: none;">
+<a href="https://www.inaturalist.org/people/1116633" target="_blank" style="text-decoration: none;">
   <img src="https://static.inaturalist.org/attachments/users/icons/1116633/thumb.jpg?1628812209" width="40" height="40" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;" alt="marceloamores">
-  <strong>Mira mis observaciones en iNaturalist »</strong>
+  <strong>Ver perfil de marceloamores en iNaturalist »</strong>
 </a>
 
 ------------------------------------------------------------------------
